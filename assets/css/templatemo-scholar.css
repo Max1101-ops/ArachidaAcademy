@@ -52,6 +52,8 @@ border-radius: 8px;
 .logo {
     display: inline-block;
     text-decoration: none;
+    height: 50px;         /* adjust as needed */
+    width: auto;
 }
 
 .clearfix:after {
