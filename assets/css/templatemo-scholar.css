@@ -42,8 +42,8 @@ figure, header, nav, section, article, aside, footer, figcaption {
 }
 
 .logo-img {
-    height: 50px;         /* adjust as needed */
-    width: auto;
+    height: 100px;         /* adjust as needed */
+    width: 100;
     display: block;
 border-radius: 8px;
     object-fit: contain;  /* ensures aspect ratio remains intact */
